@@ -98,7 +98,7 @@ Installation
 Clone the Repository:
 
 git clone [https://github.com/soltsega/Sentiment-Analysis-on-Financial-News-Data.git](https://github.com/soltsega/Week-1.git)
-cd Week-1
+cd Sentiment-Analysis-on-Financial-News-Data
 
 
 
